@@ -21,6 +21,15 @@
 
 ---
 
+## role
+- 박정웅 : wrote the README.md
+- 양시훈 : wrote the function for login
+          (Because of unknown Error, He could not inevitably able to push.)
+- 음세윤 : wrote the function for face recognition 
+
+---
+
+
 ## result
 
 <img src="./img/image.jpg">
